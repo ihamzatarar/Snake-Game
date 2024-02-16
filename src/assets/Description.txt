@@ -1,0 +1,10 @@
+/**
+ * Description.java - Description of the file.
+ *
+ * @version     1.0.0
+ * @university  Forman Christian College
+ * @course      CSCS 290 (Java)
+ * @project     Snake Game
+ * @category    OOP Based Game Using Java Swing
+ * @author      Hamza Tarar
+ */
